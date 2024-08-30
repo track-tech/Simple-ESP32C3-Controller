@@ -24,6 +24,10 @@
 
 
 
+【【开源/遥控改装】简单的ESPNOW遥控方案】 https://www.bilibili.com/video/BV1YPH7eSE2F/?share_source=copy_web&vd_source=64f09fe90f39c3b8ab28c6f3493d15dc
+
+
+
 ## 0x02 硬件连接及代码
 
 **注：开发环境Arduino，ESPNOW通信相关API调用IDF** 
@@ -512,3 +516,4 @@ void InitESPNow() {
 
 
 
+【【开源/遥控改装】简单的ESPNOW遥控方案】 https://www.bilibili.com/video/BV1YPH7eSE2F/?share_source=copy_web&vd_source=64f09fe90f39c3b8ab28c6f3493d15dc
