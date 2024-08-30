@@ -2,7 +2,7 @@
 
 ## 0x01 简单介绍
 
-<img src="C:\Users\zhang\Desktop\ESP32C3Controller\pic\1.jpg" style="zoom:25%;" />
+<img src=".\pic\1.jpg" style="zoom:25%;" />
 
 
 
@@ -34,7 +34,7 @@ https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32c3/api-reference/n
 
 
 
-<img src="C:\Users\zhang\Desktop\ESP32C3Controller\pic\2.jpg" style="zoom:25%;" />
+<img src=".\pic\2.jpg" style="zoom:25%;" />
 
 硬件连接如上图所示，实际测量出对应脚口焊接即可
 
